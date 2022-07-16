@@ -18,6 +18,9 @@
   #navbar {
     height: 12vw !important;
   }
+  #womencardbox1img{
+    height: 32vh !important;
+  }
   #brandname {
     font-size: 6vw !important;
     margin-left: 15% !important;
@@ -99,7 +102,7 @@
     height: 30vw !important ;
     object-fit: cover;
   }
-  #box2{
+  #box2 {
     margin-top: 14% !important;
   }
   #box7 {
@@ -112,7 +115,7 @@
     margin-top: -6% !important;
     width: 84% !important;
   }
-  #box4{
+  #box4 {
     margin-top: 10% !important;
   }
   #box15 {
@@ -130,55 +133,55 @@
   #box3 {
     margin-top: 3% !important;
   }
-  #womencardbox1 h1{
-    font-size: 2.2vw !important;
+  #womencardbox1 h1 {
+    font-size: 4vw !important;
   }
-  #womencardbox1 del{
-    font-size: 2.5vw !important;
+  #womencardbox1 del {
+    font-size: 3vw !important;
   }
-  #womencardbox1{
-    width: 28% !important;
+  #womencardbox1 {
+    width: 43% !important;
   }
-  #footermain{
-    height: 50vw !important;
+  #footermain {
+    height: 38vw !important;
     padding-left: 5% !important;
   }
-  #footertextbox1head{
+  #footertextbox1head {
     font-size: 2vw !important;
   }
-  #footertextbox1para{
+  #footertextbox1para {
     font-size: 1.3vw !important;
   }
-  #footertextbox2{
+  #footertextbox2 {
     margin-right: 8% !important;
     margin-left: 5% !important;
     width: 35%;
     position: relative !important;
     right: 12%;
   }
-  #footersearchbox{
+  #footersearchbox {
     font-size: 1.5vw !important;
     width: 30% !important;
   }
-  #footersearchbox{
+  #footersearchbox {
     font-size: 1.5vw !important;
     width: 71% !important;
   }
-  #footersearchboxbuut{
-  margin-left: -1% !important;
-  height: 2.6vw !important;
-  position: relative !important;
-  top: -0.3vw !important;
-  width: 24% !important;
+  #footersearchboxbuut {
+    margin-left: -1% !important;
+    height: 2.6vw !important;
+    position: relative !important;
+    top: -0.3vw !important;
+    width: 24% !important;
   }
-  #footertextbox1{
-      margin-right: 5% !important;
+  #footertextbox1 {
+    margin-right: 5% !important;
   }
-  #footertextbox3 h1{
+  #footertextbox3 h1 {
     font-size: 2vw !important;
   }
-  #footertextbox3 div{
-    margin-top: -5% !important;
+  #footertextbox3 div {
+    margin-top: -7% !important;
     margin-left: 65% !important;
   }
   #footertextbox3 img {
@@ -369,17 +372,17 @@ body {
 #categorybox2 {
   display: none;
 }
-#womenscardmainboxhead{
+#womenscardmainboxhead {
   font-size: 3vw;
   font-family: rubik;
   margin-top: 2%;
   text-align: center;
   font-weight: 1000;
 }
-#womencardmainbox{
+#womencardmainbox {
   width: 100%;
 }
-#womencardbox1{
+#womencardbox1 {
   width: 20%;
   object-fit: cover;
   margin-left: 4%;
@@ -389,10 +392,7 @@ body {
   box-shadow: 0vw 0vw 0.4vw rgb(146, 144, 144);
   /* border: 0.2vw solid rgb(83, 82, 83); */
 }
-#womencardbox1:hover{
-  
-}
-#womencardbox1img{
+#womencardbox1img {
   width: 100%;
   height: fit-content;
 }
@@ -403,65 +403,65 @@ body {
   font-weight: 1000;
   margin-top: 10%;
 }
-#womencardbox1 h1 del{
+#womencardbox1 h1 del {
   color: red;
 }
-a h5{
+a h5 {
   color: black;
   text-decoration: none;
 }
-a{
+a {
   text-decoration: none !important;
 }
-#womencardboxtextp{
+#womencardboxtextp {
   font-size: 1.3vw !important;
 }
-#footermain{
+#footermain {
   margin-top: 10%;
-  height: 25vw;
+  height: 20vw;
   width: 100%;
   background-color: teal;
   padding-top: 5%;
   padding-left: 10%;
 }
-#footertextbox1{
+#footertextbox1 {
   margin-right: 10%;
   display: inline-block;
 }
-#footertextbox1head{
+#footertextbox1head {
   color: white;
   font-size: 1.5vw;
   font-family: Realway;
   font-weight: 400;
 }
-#footertextbox1para{
+#footertextbox1para {
   color: white;
   font-size: 0.8vw;
   font-family: Realway;
   font-weight: 400;
 }
-#footersearchbox{
-    padding-left: 2%;
-    height: 2.5vw;
-    width: 70%;
-    background-color: white;
-    border: 0vw solid black;
-    font-family: roboto;
-    font-size: 1vw;
-    font-weight: 1000;
-    border-radius: 0.3vw;
-    outline: 0vw solid black;
-    overflow: hidden;
+#footersearchbox {
+  padding-left: 2%;
+  height: 2.5vw;
+  width: 70%;
+  background-color: white;
+  border: 0vw solid black;
+  font-family: roboto;
+  font-size: 1vw;
+  font-weight: 1000;
+  border-radius: 0.3vw;
+  outline: 0vw solid black;
+  overflow: hidden;
 }
-  #searchbar:focus {
-    border: 0vw solid black;
-    outline: 0;
+#searchbar:focus {
+  border: 0vw solid black;
+  outline: 0;
 }
-#footersearch :active{
+#footersearch :active {
   border: 0vw solid black !important;
   outline: 0vw solid black;
 }
-#footersearchboxbuut{
+#footersearchboxbuut {
   font-family: roboto;
   font-size: 1vw;
   border-radius: 0.1vw;
@@ -473,29 +473,29 @@ a{
   height: 2.6vw;
   width: 22%;
 }
-#footertextbox2{
+#footertextbox2 {
   margin-right: 15%;
   width: 30%;
   float: right;
 }
-#footermain hr{
+#footermain hr {
   width: 83%;
   margin: 2% 15% 0% 0%;
   margin-bottom: 2%;
   background-color: white;
 }
-#footertextbox3 img{
+#footertextbox3 img {
   height: 2.2vw;
   margin-right: 5%;
 }
-#footertextbox3{
+#footertextbox3 {
   width: 100%;
 }
-#footertextbox3 div{
+#footertextbox3 div {
   margin-top: -2vw;
   margin-left: 72%;
 }
-#footertextbox3 h1{
+#footertextbox3 h1 {
   color: white;
   font-size: 1vw;
   font-family: Realway;
